@@ -21,3 +21,9 @@ qemu-system-i386 -hda bootPaint
 * e           -> BLUE
 * a           -> BLACK (eraser)
 * esc         -> QUIT TO OS
+
+<h2>Inspired By</h2>
+
+Tetros: https://github.com/daniel-e/tetros
+
+Lightsout: https://github.com/XlogicX/lightsout
