@@ -8,7 +8,8 @@ My first attempt at making a boot sector game
 <h2>Build Instructions</h2>
 
 ```
-cd /boot-paint
+git clone https://github.com/XxSNIPER2000xX/boot-paint
+cd boot-paint
 nasm -f bin bootPaint.s -o bootPaint
 qemu-system-i386 -hda bootPaint
 ```
