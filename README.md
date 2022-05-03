@@ -20,3 +20,4 @@ qemu-system-i386 -hda bootPaint
 * w           -> GREEN
 * e           -> BLUE
 * a           -> BLACK (eraser)
+* esc         -> QUIT TO OS
