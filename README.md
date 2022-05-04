@@ -5,6 +5,8 @@ primitive paint program that runs in the boot sector
 
 My first attempt at making a boot sector game
 
+![img](/imgs/screenshot.png)
+
 <h2>Build Instructions</h2>
 
 ```
